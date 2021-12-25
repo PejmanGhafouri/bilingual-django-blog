@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-25 23:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: slideshow/apps.py:8 slideshow/models.py:29
+msgid "slideshow"
+msgstr "اسلاید شو"
+
+#: slideshow/models.py:7
+msgid "title"
+msgstr "عنوان"
+
+#: slideshow/models.py:8
+msgid "image"
+msgstr "عکس"
+
+#: slideshow/models.py:9
+msgid "publish"
+msgstr "انتشار"
+
+#: slideshow/models.py:12 slideshow/models.py:25
+msgid "status"
+msgstr "وضعیت"
+
+#: slideshow/models.py:16 slideshow/models.py:24
+msgid "article"
+msgstr "مقاله"
+
+#: slideshow/models.py:17
+msgid "articles"
+msgstr "مقالات"
+
+#: slideshow/models.py:30
+msgid "slideshows"
+msgstr " اسلایدشو ها"
+
+#: slideshow/templates/slideshow/home.html:15
+#: slideshow/templates/slideshow/home.html:69
+msgid "Django"
+msgstr "جنگو"
+
+#: slideshow/templates/slideshow/home.html:74
+msgid "En"
+msgstr "انگلیسی"
+
+#: slideshow/templates/slideshow/home.html:74
+msgid "Fa"
+msgstr "فارسی"
+
+#: slideshow/templates/slideshow/home.html:88
+msgid "Articles"
+msgstr "مقالات"
+
+#: slideshow/templates/slideshow/home.html:98
+msgid "Pejamn Ghaforui"
+msgstr "پژمان غفوری"
+
+#: slideshow/templates/slideshow/partials/slideshow.html:16
+msgid "Play"
+msgstr "اجرا"
+
+#: slideshow/templates/slideshow/partials/slideshow.html:17
+msgid "Stop"
+msgstr "توقف"
